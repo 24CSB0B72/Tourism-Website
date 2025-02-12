@@ -8,6 +8,8 @@ Welcome to the Tourism Website repository! This project is designed to showcase 
 - Gallery to view images of popular places
 - Links to hotels and heritage sites
 - Responsive design to cater to different screen sizes
+- The smile icon opens the stars in mumbai. Showcasing, image-clipping via path, and text based.
+- The grid is responsive.
 
 ## Project Structure
 
@@ -23,10 +25,3 @@ The project consists of the following main files:
 - **HTML**: For structure and content
 - **CSS**: For styling and design
 
-## Setup
-
-To get started with this project locally:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/24CSB0B72/Tourism-Website.git
