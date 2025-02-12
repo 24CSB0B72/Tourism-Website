@@ -10,6 +10,7 @@ Welcome to the Tourism Website repository! This project is designed to showcase 
 - Responsive design to cater to different screen sizes
 - The smile icon opens the stars in mumbai. Showcasing, image-clipping via path, and text based.
 - The grid is responsive.
+- subtle animations everywhere, so that the website feels polished and elegant.
 
 ## Project Structure
 
