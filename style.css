@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;  /* Changed to Roboto */
     line-height: 1.6;
     color: #333;
 }
@@ -37,6 +37,7 @@ nav {
 .logo {
     font-size: 1.5rem;
     color: #333;
+    font-family: 'Poppins', sans-serif; /* Changed to Poppins */
     transition: color 0.3s ease;
 }
 
@@ -86,6 +87,7 @@ nav {
 .hero-content h1 {
     font-size: 5rem;
     margin-bottom: 1rem;
+    font-family: 'Poppins', sans-serif;  /* Changed to Poppins */
     transition: all 0.5s;
 }
 
@@ -107,6 +109,7 @@ nav {
 .highlights h2 {
     text-align: center;
     margin-bottom: 3rem;
+    font-family: 'Poppins', sans-serif;  /* Changed to Poppins */
 }
 
 .highlights-grid {
@@ -211,6 +214,7 @@ nav {
     padding: 1rem;
     text-align: center;
     background: white;
+    font-family: 'Poppins', sans-serif;  /* Changed to Poppins */
 }
 
 /* Site Details */
@@ -241,6 +245,7 @@ nav {
 
 .site-content h2 {
     margin: 1.5rem 0 1rem;
+    font-family: 'Poppins', sans-serif;  /* Changed to Poppins */
 }
 
 /* Hotel Booking Form */
@@ -253,6 +258,7 @@ nav {
 .hotel-booking h2 {
     text-align: center;
     margin-bottom: 2rem;
+    font-family: 'Poppins', sans-serif;  /* Changed to Poppins */
 }
 
 .booking-form {
@@ -357,7 +363,6 @@ footer {
 }
 
 /* fun.html styles */
-
 .stars, .fun-landing {
     background-color: beige;
     margin: 0;
